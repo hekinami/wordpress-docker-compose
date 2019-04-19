@@ -1,0 +1,4 @@
+Build a wordpress environment quickly (for development or experiment) with docker and docker-compose
+
+  cd wordpress-docker-compose
+  docker-compose up
